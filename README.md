@@ -11,3 +11,4 @@ RabbitMQ. The messages are grouped based on a specific criteria and then process
 - Springboot 3
 
 ### Article Link
+https://medium.com/mobileaction-tech/grouping-rabbitmq-messages-in-spring-boot-using-spring-integration-9a6317c0d1d1
